@@ -1,0 +1,1 @@
+[27-Sep-2014 03:36:11 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 3072 bytes) in /home/youchase/public_html/wordpress/wp-includes/deprecated.php on line 1018

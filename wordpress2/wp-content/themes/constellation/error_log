@@ -1,0 +1,1 @@
+[23-Jan-2014 18:29:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/youchase/public_html/wordpress/wp-content/themes/constellation/404.php on line 1
